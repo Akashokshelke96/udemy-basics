@@ -23,4 +23,4 @@ public class SetsQ {
         }
 
     }
-//sets-question
+//sets-questions from hackerrank
